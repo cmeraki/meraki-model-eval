@@ -33,3 +33,7 @@ Model response needs to be in a `.csv` format with at least these two columns
 
 - prompt_id
 - response
+
+## Example
+
+![example](assets/example.png)
